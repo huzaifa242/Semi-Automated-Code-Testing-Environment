@@ -1,0 +1,14 @@
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.exe.config
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.exe
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.pdb
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.dll
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.exe
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.pdb
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.dll.config
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.pdb
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.exe.config
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csprojAssemblyReference.cache
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csproj.CopyComplete
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.exe
+F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.pdb

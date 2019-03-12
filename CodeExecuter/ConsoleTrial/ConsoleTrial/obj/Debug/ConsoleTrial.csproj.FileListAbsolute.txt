@@ -1,0 +1,20 @@
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe.config
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.pdb
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.exe
+C:\Users\user1\Desktop\Huzaifa\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.pdb
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe.config
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.pdb
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.csprojAssemblyReference.cache
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.csproj.CoreCompileInputs.cache
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.exe
+E:\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.pdb
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe.config
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.exe
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\bin\Debug\ConsoleTrial.pdb
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.csprojAssemblyReference.cache
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.exe
+F:\Projects\SOA Project\CodeExecuter\ConsoleTrial\ConsoleTrial\obj\Debug\ConsoleTrial.pdb

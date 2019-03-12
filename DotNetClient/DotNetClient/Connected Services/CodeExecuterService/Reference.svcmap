@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8dc96d41-fe0c-42aa-9b0c-abcdfe9bba57" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/Executer" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Executer.disco" MetadataType="Disco" ID="1c979954-badb-4936-a1ae-6a871e84f0cd" SourceId="1" SourceUrl="http://localhost:8000/Executer?disco" />
+    <MetadataFile FileName="Executer.xsd" MetadataType="Schema" ID="f3a1515e-f333-4ed5-872a-81a703fc0949" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd2" />
+    <MetadataFile FileName="Executer.wsdl" MetadataType="Wsdl" ID="66876fd9-f5e0-41fb-bd88-00aa002568f7" SourceId="1" SourceUrl="http://localhost:8000/Executer?wsdl" />
+    <MetadataFile FileName="Executer1.xsd" MetadataType="Schema" ID="1a0c6a63-660b-4cd4-b60b-a1dd36ebef8d" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd1" />
+    <MetadataFile FileName="Executer2.xsd" MetadataType="Schema" ID="9959d947-acc1-4ff5-b22a-a1a6142c0d09" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

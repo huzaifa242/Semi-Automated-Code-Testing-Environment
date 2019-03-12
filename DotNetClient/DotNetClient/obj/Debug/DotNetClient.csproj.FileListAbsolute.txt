@@ -1,0 +1,160 @@
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\DotNetClient.dll.config
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\DotNetClient.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\DotNetClient.pdb
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csc.exe
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csc.exe.config
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csc.rsp
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csi.exe
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csi.exe.config
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\csi.rsp
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.AppContext.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Console.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\vbc.exe
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\vbc.exe.config
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\vbc.rsp
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Antlr3.Runtime.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Newtonsoft.Json.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Helpers.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Mvc.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Optimization.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Razor.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\WebGrease.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Helpers.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Mvc.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Optimization.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.Razor.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Newtonsoft.Json.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Antlr3.Runtime.pdb
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csproj.CopyComplete
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\obj\Debug\DotNetClient.dll
+C:\Users\Home\source\repos\DotNetClient\DotNetClient\obj\Debug\DotNetClient.pdb
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\DotNetClient.dll.config
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\DotNetClient.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\DotNetClient.pdb
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csc.exe
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csc.exe.config
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csc.rsp
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csi.exe
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csi.exe.config
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\csi.rsp
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.AppContext.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Console.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.IO.Compression.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.IO.Pipes.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.AccessControl.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Claims.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.ValueTuple.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\vbc.exe
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\vbc.exe.config
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\vbc.rsp
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\VBCSCompiler.exe
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Antlr3.Runtime.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Newtonsoft.Json.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Helpers.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Mvc.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Optimization.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Razor.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.Razor.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\WebGrease.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Helpers.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Mvc.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Optimization.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.Razor.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Web.WebPages.Razor.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Newtonsoft.Json.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Antlr3.Runtime.pdb
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\SOA Project\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csprojAssemblyReference.cache
+F:\Projects\SOA Project\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\DotNetClient\DotNetClient\obj\Debug\DotNetClient.csproj.CopyComplete
+F:\Projects\SOA Project\DotNetClient\DotNetClient\obj\Debug\DotNetClient.dll
+F:\Projects\SOA Project\DotNetClient\DotNetClient\obj\Debug\DotNetClient.pdb

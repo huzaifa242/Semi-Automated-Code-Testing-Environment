@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="59a6123e-ae1b-484b-baa8-f9ed964b8d88" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8001/Coordination" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Coordination.xsd" MetadataType="Schema" ID="6a9ececa-d2c5-467c-9e0e-f2bd13c4d575" SourceId="1" SourceUrl="http://localhost:8001/Coordination?xsd=xsd2" />
+    <MetadataFile FileName="Coordination.disco" MetadataType="Disco" ID="58621676-1678-4e05-b39a-241caef23a21" SourceId="1" SourceUrl="http://localhost:8001/Coordination?disco" />
+    <MetadataFile FileName="Coordination.wsdl" MetadataType="Wsdl" ID="1cae44f6-224d-44e2-a632-06d9c96e1848" SourceId="1" SourceUrl="http://localhost:8001/Coordination?wsdl" />
+    <MetadataFile FileName="Coordination1.xsd" MetadataType="Schema" ID="a84ffe1e-7e94-425f-afd7-8988664c8074" SourceId="1" SourceUrl="http://localhost:8001/Coordination?xsd=xsd0" />
+    <MetadataFile FileName="Coordination2.xsd" MetadataType="Schema" ID="dec33456-e651-40d3-8308-43e3cb6c1033" SourceId="1" SourceUrl="http://localhost:8001/Coordination?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

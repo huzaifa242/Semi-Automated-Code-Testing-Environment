@@ -1,0 +1,11 @@
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\CodeExecuter.dll.config
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\CodeExecuter.dll
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\CodeExecuter.pdb
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\SupportedLanguage.exe
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\SupportedLanguage.pdb
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\bin\Debug\SupportedLanguage.exe.config
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\obj\Debug\CodeExecuter.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\obj\Debug\CodeExecuter.csproj.CopyComplete
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\obj\Debug\CodeExecuter.dll
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\obj\Debug\CodeExecuter.pdb
+F:\Projects\SOA Project\CodeExecuter\CodeExecuter\CodeExecuter\obj\Debug\CodeExecuter.csprojAssemblyReference.cache

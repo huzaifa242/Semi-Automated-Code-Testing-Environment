@@ -1,0 +1,68 @@
+﻿@model  DotNetClient.Models.language 
+
+<script type="text/javascript">
+    
+        if ($("#file").onselect()) {
+            $("#filesection").addClass(hidden);
+            $("#filesection").show();
+        }
+        if ($("#text").onselect()) {
+            $("#textsection").removeClass("hidden");
+            $("#textswction").show();
+
+        }
+    
+    
+</script>
+@using (Html.BeginForm("Submit", "Home", FormMethod.Post, new {enctype = "multipart/form-data"}))
+      {
+          <div>
+              <input type="radio" id="file" name="codetype"/><label>File</label><br/>
+              <input type="radio" id="text" name="codetype"/><label>Text</label>
+          </div>
+          <label>Language</label>
+          @Html.EnumDropDownListFor(model => model.getlang)
+
+
+          <section id="filesection" class="file">
+              <div class="">
+                  <div class="col-lg-4">
+                      <label>Testng File</label>
+                      <input type="file" name="testing"/>
+                  </div>
+                  <div class="col-lg-4">
+                      <label>Tester File</label>
+                      <input type="file" name="tester"/>
+                  </div>
+                  <div class="col-lg-4">
+                      <label>Testcases File</label>
+                      <input type="file" name="testcases"/>
+                  </div>
+              </div>
+          </section>
+
+          <section id="textsection" class="text">
+              <div>
+                  <div class="col-lg-4">
+                      <label>Testing Code</label>
+                      <br/>
+                      <textarea name="testing"></textarea>
+                  </div>
+                  <div class="col-lg-4">
+                      <label>Tester code</label>
+                      <br/>
+                      <textarea name="tester"></textarea>
+                  </div>
+                  <div class="col-lg-4">
+                      <label>Testcases</label>
+                      <br/>
+                      <textarea name="testcase"></textarea>
+                  </div>
+              </div>
+          </section>
+          <div class="text-center">
+              <button id="submit">Test</button>
+          </div>
+          <lebal id="x"></lebal>
+          @ViewBag.x
+      }

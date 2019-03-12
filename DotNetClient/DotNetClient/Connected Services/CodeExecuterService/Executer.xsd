@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SupportedLanguage" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SupportedLanguage" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="language">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="cpp" />
+      <xs:enumeration value="c" />
+      <xs:enumeration value="python2" />
+      <xs:enumeration value="python3" />
+      <xs:enumeration value="java" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="language" nillable="true" type="tns:language" />
+</xs:schema>

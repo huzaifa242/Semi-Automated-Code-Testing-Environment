@@ -1,0 +1,7 @@
+F:\Projects\SOA Project\Errors\Errors\bin\Debug\Errors.exe.config
+F:\Projects\SOA Project\Errors\Errors\bin\Debug\Errors.exe
+F:\Projects\SOA Project\Errors\Errors\bin\Debug\Errors.pdb
+F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.csprojAssemblyReference.cache
+F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.exe
+F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.pdb

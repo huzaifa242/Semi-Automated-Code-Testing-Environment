@@ -1,0 +1,7 @@
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.exe.config
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.exe
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.pdb
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.csprojAssemblyReference.cache
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.csproj.CoreCompileInputs.cache
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.exe
+F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.pdb
