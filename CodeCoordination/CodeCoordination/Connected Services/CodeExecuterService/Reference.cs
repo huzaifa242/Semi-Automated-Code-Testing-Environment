@@ -16,10 +16,10 @@ namespace CodeCoordination.CodeExecuterService {
     public interface IExecuter {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IExecuter/executeCode", ReplyAction="http://tempuri.org/IExecuter/executeCodeResponse")]
-        int executeCode(SupportedLanguage.language lang, string filename, string input, string output);
+        Errors.error executeCode(SupportedLanguage.language lang, string filename, string input, string output);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IExecuter/executeCode", ReplyAction="http://tempuri.org/IExecuter/executeCodeResponse")]
-        System.Threading.Tasks.Task<int> executeCodeAsync(SupportedLanguage.language lang, string filename, string input, string output);
+        System.Threading.Tasks.Task<Errors.error> executeCodeAsync(SupportedLanguage.language lang, string filename, string input, string output);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -49,11 +49,11 @@ namespace CodeCoordination.CodeExecuterService {
                 base(binding, remoteAddress) {
         }
         
-        public int executeCode(SupportedLanguage.language lang, string filename, string input, string output) {
+        public Errors.error executeCode(SupportedLanguage.language lang, string filename, string input, string output) {
             return base.Channel.executeCode(lang, filename, input, output);
         }
         
-        public System.Threading.Tasks.Task<int> executeCodeAsync(SupportedLanguage.language lang, string filename, string input, string output) {
+        public System.Threading.Tasks.Task<Errors.error> executeCodeAsync(SupportedLanguage.language lang, string filename, string input, string output) {
             return base.Channel.executeCodeAsync(lang, filename, input, output);
         }
     }

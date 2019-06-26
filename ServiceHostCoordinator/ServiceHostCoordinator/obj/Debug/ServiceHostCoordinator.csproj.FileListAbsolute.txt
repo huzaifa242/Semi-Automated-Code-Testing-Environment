@@ -12,3 +12,20 @@ F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\
 F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csproj.CopyComplete
 F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.exe
 F:\Projects\SOA Project\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\ServiceHostCoordinator.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.dll
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\CodeCoordination.dll.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\SupportedLanguage.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csprojAssemblyReference.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csproj.CoreCompileInputs.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.csproj.CopyComplete
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\obj\Debug\ServiceHostCoordinator.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\Errors.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\Errors.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHostCoordinator\ServiceHostCoordinator\bin\Debug\Errors.exe.config

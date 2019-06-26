@@ -6,7 +6,8 @@ using System.ServiceModel;
 using System.Text;
 using CodeCoordination.CodeExecuterService;
 using SupportedLanguage;
-
+using Errors;
+using System.IO;
 namespace CodeCoordination
 {
     public class Coordination : ICoordination
@@ -14,11 +15,61 @@ namespace CodeCoordination
         CodeExecuterService.ExecuterClient codecli = new ExecuterClient();
         private string test, casegen = "casegen.txt", codep, codes, opp = "opp.txt", ops = "ops.txt";
         private language testl, codepl, codesl;
+        public error e;
         public void execute()
         {
-            gentestcase();
-            runp();
-            runs();
+            DateTime start = DateTime.Now;
+            while (true)
+            {
+                int f = 0;
+                gentestcase();
+                runp();
+                runs();
+                string line1, line2;
+                string l = "";
+                f = ops.Length;
+                for(int i=0;i<f-3;i=i+1)
+                {
+                    l = l + ops[i];
+                }
+                line1 = File.ReadAllText(@"F:\codefolder\" + opp);
+                line2 = File.ReadAllText(@"F:\codefolder\" + ops);
+                if (line2.Contains(l))
+                {
+                    FileStream File1 = new FileStream(@"F:\codefolder\" + ops + "result", FileMode.OpenOrCreate, FileAccess.Write);
+                    using (StreamWriter sw = new StreamWriter(File1))
+                    {
+                        sw.WriteLine(ops + " have compilation error: ");
+                        sw.WriteLine(line2);
+                    }
+                    File1.Close();
+                    return;
+                }
+                if (line1 != line2)
+                {
+                    FileStream File1 = new FileStream(@"F:\codefolder\"+ops+"result", FileMode.OpenOrCreate, FileAccess.Write);
+                    using (StreamWriter sw = new StreamWriter(File1))
+                    {
+                        sw.WriteLine(ops +" gets a failure on");
+                        string line3 = File.ReadAllText(@"F:\codefolder\casegen.txt");
+                        sw.WriteLine(line3);
+                    }
+                    //File.Delete(@"F:\codefolder\" + opp);
+                    //File.Delete(@"F:\codefolder\" + opp);
+                    File1.Close();
+                    return;
+                }
+                if((DateTime.Now-start).TotalSeconds >=120)
+                {
+                    FileStream File1 = new FileStream(@"F:\codefolder\"+ops+"result", FileMode.OpenOrCreate, FileAccess.Write);
+                    using (StreamWriter sw = new StreamWriter(File1))
+                    {
+                        sw.WriteLine(ops+" gets the success");
+                    }
+                    File1.Close();
+                    return;
+                }
+            }
         }
 
         public void gentestcase()

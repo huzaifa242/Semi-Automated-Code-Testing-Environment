@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Errors">
+      <HintPath>..\..\Errors\Errors\bin\Debug\Errors.exe</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="SupportedLanguage">
       <HintPath>..\..\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.exe</HintPath>
@@ -87,6 +90,9 @@
     <None Include="Connected Services\CodeExecuterService\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Connected Services\CodeExecuterService\Executer3.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Connected Services\CodeExecuterService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>

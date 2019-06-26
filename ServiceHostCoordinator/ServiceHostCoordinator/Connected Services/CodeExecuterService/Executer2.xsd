@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:import schemaLocation="http://localhost:8000/Executer?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SupportedLanguage" />
+  <xs:import schemaLocation="http://localhost:8000/Executer?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Errors" />
   <xs:element name="executeCode">
     <xs:complexType>
       <xs:sequence>
@@ -14,7 +15,7 @@
   <xs:element name="executeCodeResponse">
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" name="executeCodeResult" type="xs:int" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Errors" minOccurs="0" name="executeCodeResult" type="q2:error" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>

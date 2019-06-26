@@ -14,7 +14,7 @@ namespace CodeExecuter
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
     public class Executer : IExecuter
     {
-        static string codefolder = @"e:\\codefolder";
+        static string codefolder = @"f:\\codefolder";
         private static int tlimit = 5000;
         public error executeCode(language lang, string filename, string input, string output)
         {
@@ -25,9 +25,10 @@ namespace CodeExecuter
             startInfo.FileName = "cmd.exe";
             switch (lang)
             {
-                case language.cpp : startInfo.Arguments = @"/C g++ -o "+ filename.Substring(0,filename.Length-4) + " " + filename + " > error.txt";
+                case language.cpp : startInfo.Arguments = @"/C g++ -o "+ filename.Substring(0,filename.Length-4) + " " + filename + " 2> " + output ;
                     Process.Start(startInfo).WaitForExit();
-                    if (new FileInfo("error.txt").Length != 0)
+                    string cc = File.ReadAllText(codefolder + @"\"+ output);
+                    if (cc.Length != 0)
                     {
                         return error.CE;
                     }
@@ -40,8 +41,12 @@ namespace CodeExecuter
                     bool re=proc.WaitForExit(tlimit);
                     if (!re)
                     {
+                        //foreach (var pro in Process.GetProcessesByName(filename.Substring(0, filename.Length - 4)))
+                            //pro.Kill();
                         return error.RE;
                     }
+                    //foreach (var pro in Process.GetProcessesByName(filename.Substring(0, filename.Length - 4)))
+                       // pro.Kill();
                     break;
             }
             return error.AC;

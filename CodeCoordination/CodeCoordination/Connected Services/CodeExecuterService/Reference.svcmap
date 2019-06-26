@@ -22,11 +22,12 @@
     <MetadataSource Address="http://localhost:8000/Executer" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
+    <MetadataFile FileName="Executer2.xsd" MetadataType="Schema" ID="cd631d61-1784-4ef8-9a64-6b57e028a924" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd0" />
     <MetadataFile FileName="Executer.disco" MetadataType="Disco" ID="550aae3f-e177-4caf-91bf-e3071a629bbe" SourceId="1" SourceUrl="http://localhost:8000/Executer?disco" />
+    <MetadataFile FileName="Executer3.xsd" MetadataType="Schema" ID="4b3cd0cb-0d81-4a39-9f87-d32a0795c8f1" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd3" />
     <MetadataFile FileName="Executer.xsd" MetadataType="Schema" ID="5e77b291-8b3d-42fa-96d6-62f073d54242" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd2" />
     <MetadataFile FileName="Executer.wsdl" MetadataType="Wsdl" ID="338f5983-f37e-422a-91ad-12bc7bbda993" SourceId="1" SourceUrl="http://localhost:8000/Executer?wsdl" />
     <MetadataFile FileName="Executer1.xsd" MetadataType="Schema" ID="f6ed94ff-a0b3-4f56-9061-03fda0855cc1" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd1" />
-    <MetadataFile FileName="Executer2.xsd" MetadataType="Schema" ID="cd631d61-1784-4ef8-9a64-6b57e028a924" SourceId="1" SourceUrl="http://localhost:8000/Executer?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

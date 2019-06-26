@@ -5,3 +5,10 @@ F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.csprojAssemblyReference.c
 F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache
 F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.exe
 F:\Projects\SOA Project\Errors\Errors\obj\Debug\Errors.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\bin\Debug\Errors.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\bin\Debug\Errors.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\bin\Debug\Errors.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\obj\Debug\Errors.csprojAssemblyReference.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\obj\Debug\Errors.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\Errors\Errors\obj\Debug\Errors.pdb

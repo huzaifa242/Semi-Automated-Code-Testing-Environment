@@ -23,3 +23,20 @@ F:\Projects\SOA Project\ServiceHost\ServiceHost\bin\Debug\SupportedLanguage.exe.
 F:\Projects\SOA Project\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.dll
 F:\Projects\SOA Project\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.pdb
 F:\Projects\SOA Project\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.dll.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.dll
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\SupportedLanguage.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\CodeExecuter.dll.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\SupportedLanguage.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\SupportedLanguage.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csprojAssemblyReference.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csproj.CopyComplete
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\Errors.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\Errors.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\ServiceHost\ServiceHost\bin\Debug\Errors.exe.config

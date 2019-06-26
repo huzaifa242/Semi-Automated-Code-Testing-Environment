@@ -14,7 +14,7 @@ namespace CodeCoordination.ContractTypes
     
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3056.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("MSBuild", "15.7.180+ga0efa11be1")]
     [System.SerializableAttribute()]
     [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://schemas.datacontract.org/2004/07/SupportedLanguage")]
     [System.Xml.Serialization.XmlRootAttribute(Namespace="http://schemas.datacontract.org/2004/07/SupportedLanguage", IsNullable=true)]
@@ -38,7 +38,7 @@ namespace CodeCoordination.ContractTypes
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3056.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("MSBuild", "15.7.180+ga0efa11be1")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -128,7 +128,7 @@ namespace CodeCoordination.ContractTypes
     }
     
     /// <remarks/>
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Xml", "4.7.3056.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("MSBuild", "15.7.180+ga0efa11be1")]
     [System.SerializableAttribute()]
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
@@ -137,12 +137,12 @@ namespace CodeCoordination.ContractTypes
     public partial class executeCodeResponse
     {
         
-        private int executeCodeResultField;
+        private error executeCodeResultField;
         
         private bool executeCodeResultFieldSpecified;
         
         /// <remarks/>
-        public int executeCodeResult
+        public error executeCodeResult
         {
             get
             {
@@ -167,5 +167,26 @@ namespace CodeCoordination.ContractTypes
                 this.executeCodeResultFieldSpecified = value;
             }
         }
+    }
+    
+    /// <remarks/>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("MSBuild", "15.7.180+ga0efa11be1")]
+    [System.SerializableAttribute()]
+    [System.Xml.Serialization.XmlTypeAttribute(Namespace="http://schemas.datacontract.org/2004/07/Errors")]
+    [System.Xml.Serialization.XmlRootAttribute(Namespace="http://schemas.datacontract.org/2004/07/Errors", IsNullable=true)]
+    public enum error
+    {
+        
+        /// <remarks/>
+        CE,
+        
+        /// <remarks/>
+        RE,
+        
+        /// <remarks/>
+        TLE,
+        
+        /// <remarks/>
+        AC,
     }
 }

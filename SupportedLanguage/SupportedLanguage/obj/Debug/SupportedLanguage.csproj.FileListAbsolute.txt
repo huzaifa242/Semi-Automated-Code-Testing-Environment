@@ -5,3 +5,10 @@ F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedL
 F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.csproj.CoreCompileInputs.cache
 F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.exe
 F:\Projects\SOA Project\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.exe.config
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\bin\Debug\SupportedLanguage.pdb
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.csprojAssemblyReference.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.exe
+C:\Users\Kishan\Desktop\Semi-Automated-Code-Testing-Environment\SupportedLanguage\SupportedLanguage\obj\Debug\SupportedLanguage.pdb

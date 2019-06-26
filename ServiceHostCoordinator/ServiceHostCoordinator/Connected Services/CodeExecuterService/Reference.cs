@@ -32,15 +32,32 @@ namespace ServiceHostCoordinator.CodeExecuterService {
         java = 4,
     }
     
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="error", Namespace="http://schemas.datacontract.org/2004/07/Errors")]
+    public enum error : int {
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        CE = 0,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        RE = 1,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        TLE = 2,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        AC = 3,
+    }
+    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="CodeExecuterService.IExecuter")]
     public interface IExecuter {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IExecuter/executeCode", ReplyAction="http://tempuri.org/IExecuter/executeCodeResponse")]
-        int executeCode(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output);
+        ServiceHostCoordinator.CodeExecuterService.error executeCode(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IExecuter/executeCode", ReplyAction="http://tempuri.org/IExecuter/executeCodeResponse")]
-        System.Threading.Tasks.Task<int> executeCodeAsync(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output);
+        System.Threading.Tasks.Task<ServiceHostCoordinator.CodeExecuterService.error> executeCodeAsync(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -70,11 +87,11 @@ namespace ServiceHostCoordinator.CodeExecuterService {
                 base(binding, remoteAddress) {
         }
         
-        public int executeCode(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output) {
+        public ServiceHostCoordinator.CodeExecuterService.error executeCode(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output) {
             return base.Channel.executeCode(lang, filename, input, output);
         }
         
-        public System.Threading.Tasks.Task<int> executeCodeAsync(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output) {
+        public System.Threading.Tasks.Task<ServiceHostCoordinator.CodeExecuterService.error> executeCodeAsync(ServiceHostCoordinator.CodeExecuterService.language lang, string filename, string input, string output) {
             return base.Channel.executeCodeAsync(lang, filename, input, output);
         }
     }
